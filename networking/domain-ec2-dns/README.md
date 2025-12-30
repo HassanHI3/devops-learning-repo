@@ -1,7 +1,7 @@
 # Domain + EC2 + DNS (NGINX) Project
 
 ## Overview
-This lab demonstrates hosting a web server on AWS EC2 and connecting it to a custom domain using DNS.
+This project demonstrates hosting a web server on AWS EC2 and connecting it to a custom domain using DNS.
 
 ## Architecture
 Browser → DNS (Cloudflare) → EC2 Public IP → NGINX (Port 80)
