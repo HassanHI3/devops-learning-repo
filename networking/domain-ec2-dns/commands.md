@@ -10,4 +10,4 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 ## Verify
-sudo systemctl status nginx
+sudo systemctl status ngin
