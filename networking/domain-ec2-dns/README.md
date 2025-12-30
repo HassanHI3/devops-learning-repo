@@ -1,4 +1,4 @@
-# Domain + EC2 + DNS (NGINX)
+# Domain + EC2 + DNS (NGINX) Project
 
 ## Overview
 This lab demonstrates hosting a web server on AWS EC2 and connecting it to a custom domain using DNS.
