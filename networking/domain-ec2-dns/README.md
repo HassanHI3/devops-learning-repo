@@ -46,9 +46,12 @@ I also ensured Cloudflare proxying was disabled (DNS only).
 Solution:
 I reorganised the repository by creating a dedicated screenshots/ folder and moving files into it using GitHub’s rename functionality, ensuring a clean and professional structure.
 
-**Evidence**
+
+
+
+**Evidence**:
 - Screenshots showing each step of the setup and verification process are available in the screenshots/ directory.
 
-**Final Result**
+**Final Result**:
 - The NGINX default page successfully loads when visiting the custom domain, proving that the domain, DNS configuration, EC2 instance, and web server are all correctly connected.
 
